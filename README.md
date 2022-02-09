@@ -3,11 +3,11 @@
 <h4>Integrantes</h4>
 
 <div>
-  <img align="center" alt="Mateus" height="30" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQFbZkbMXyrAkQ/profile-displayphoto-shrink_200_200/0/1644421523696?e=1649894400&v=beta&t=ZQIj9NhvN8RgfpEUkpbatv2H-nNrZBn2yv5fujOfKg4">
-  <img align="center" alt="Everton" height="30"  style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHE5P0Ii1dOUA/profile-displayphoto-shrink_100_100/0/1625080705960?e=1649894400&v=beta&t=XSaHunEs09d68Umj6lqPRjAA5P3lfFCp8xJWxZR5hwQ">
-  <img align="center" alt="Brunelle" height="30" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFA86rsJYSM0g/profile-displayphoto-shrink_200_200/0/1633011008995?e=1649894400&v=beta&t=qLv5aGrO2kvXj7fVr8sKp0TTmUAVdbNaS7pI1yGldd4">
-  <img align="center" alt="Renato" height="30" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGyfJWhwNwlVA/profile-displayphoto-shrink_200_200/0/1635524223078?e=1649894400&v=beta&t=Lu_X3iIsMDe2fdfgGAYbhycMArkl0oAEhoBSBWCPCsA">
-  <img align="center" alt="Felipe" height="30" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGs26p5bosQdw/profile-displayphoto-shrink_200_200/0/1636552083779?e=1649894400&v=beta&t=UmOzXr3zhpPkLQ28MArPI581m2Q72iz4eo0RSlp5zH0">
+  <img align="center" alt="Mateus" height="60" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQFbZkbMXyrAkQ/profile-displayphoto-shrink_200_200/0/1644421523696?e=1649894400&v=beta&t=ZQIj9NhvN8RgfpEUkpbatv2H-nNrZBn2yv5fujOfKg4">
+  <img align="center" alt="Everton" height="60"  style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHE5P0Ii1dOUA/profile-displayphoto-shrink_100_100/0/1625080705960?e=1649894400&v=beta&t=XSaHunEs09d68Umj6lqPRjAA5P3lfFCp8xJWxZR5hwQ">
+  <img align="center" alt="Brunelle" height="60" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFA86rsJYSM0g/profile-displayphoto-shrink_200_200/0/1633011008995?e=1649894400&v=beta&t=qLv5aGrO2kvXj7fVr8sKp0TTmUAVdbNaS7pI1yGldd4">
+  <img align="center" alt="Renato" height="60" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGyfJWhwNwlVA/profile-displayphoto-shrink_200_200/0/1635524223078?e=1649894400&v=beta&t=Lu_X3iIsMDe2fdfgGAYbhycMArkl0oAEhoBSBWCPCsA">
+  <img align="center" alt="Felipe" height="60" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQGs26p5bosQdw/profile-displayphoto-shrink_200_200/0/1636552083779?e=1649894400&v=beta&t=UmOzXr3zhpPkLQ28MArPI581m2Q72iz4eo0RSlp5zH0">
   
 </div>
 <hr>
