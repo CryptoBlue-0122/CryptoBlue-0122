@@ -5,6 +5,7 @@
 #### Fonte de Dados
 #### Databricks
 #### Data Factory
+#### SQL Server
 #### Cronograma
 #### Power BI
 #### Apresentações
