@@ -13,16 +13,16 @@
 
 </div>
 
-<h4>Ferramentas Utilizadas</h4>
+<h4>Recursos</h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DataBrickis" height="30" width="40" src="https://azure.microsoft.com/svghandler/databricks/?width=600&height=315">
   <img align="center" alt="Data Factory" height="30" width="40" src="https://www.clipartmax.com/png/full/152-1520624_azure-data-factory-azure-data-factory-logo.png">
-  <img align="center" alt="SQL Server" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdatabasejoe.com%2Fblog%2Fversion-control-sql-server-and-azure-devops%2F&psig=AOvVaw1o3VULB45unaSoYSFangf-&ust=1644510296606000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjhh7SE8_UCFQAAAAAdAAAAABAD">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://www.clipartmax.com/png/small/87-879804_exported-database-from-azure-sql-failed-to-be-imported-sql-azure.png">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://www.clipartmax.com/png/small/17-172861_power-bi-is-a-business-analytics-service-provided-by-power-bi-logo.png">
+  <img align="center" alt="Excel" height="30" width="40" src="https://www.clipartmax.com/png/small/17-173519_microsoft%C2%AE-office-excel%C2%AE-microsoft-excel-logo-2013.png">
+  <img align="center" alt="Trello" height="30" width="40" src="https://www.clipartmax.com/png/small/87-874991_trello-dans-le-mac-app-store-trello-mac-icon.png">
+  <img align="center" alt="Python" height="30" width="40" src="https://www.clipartmax.com/so/python/#">
 
 </div>
 
