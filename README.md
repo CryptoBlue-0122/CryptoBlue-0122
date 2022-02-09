@@ -26,16 +26,4 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://www.clipartmax.com/png/small/232-2324805_figma-mirror-figma-app.png">
 
 </div>
-<hr>
-<h4>Databricks</h4>
-<hr>
-<h4>Data Factory</h4>
-<hr>
-<h4>SQL Server</h4>
-<hr>
-<h4>Cronograma</h4>
-<hr>
-<h4>Power BI</h4>
-<hr>
-<h4>Apresentações</h4>
 
