@@ -1,8 +1,6 @@
 ### Ordem & Nesspresso 
-<!--
-**CryptoBlue-0122/CryptoBlue-0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-
+Projeto Integrado da  BlueShift Academy referente a analise de Criptomoedas ₿
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
