@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg">
 
 </div>
-
+<hr>
 <h4>Recursos</h4>
 
 <div style="display: inline_block"><br>
@@ -22,11 +22,10 @@
   <img align="center" alt="Power BI" height="30" width="40" src="https://www.clipartmax.com/png/small/17-172861_power-bi-is-a-business-analytics-service-provided-by-power-bi-logo.png">
   <img align="center" alt="Excel" height="30" width="40" src="https://www.clipartmax.com/png/small/17-173519_microsoft%C2%AE-office-excel%C2%AE-microsoft-excel-logo-2013.png">
   <img align="center" alt="Trello" height="30" width="40" src="https://www.clipartmax.com/png/small/87-874991_trello-dans-le-mac-app-store-trello-mac-icon.png">
-  <img align="center" alt="Python" height="30" width="40" src="https://www.clipartmax.com/so/python/#">
+  <img align="center" alt="Python" height="30" width="40" src="https://www.clipartmax.com/png/full/83-834304_course-key-features-python-logo.png">
 
 </div>
 
-<h4>Fonte de Dados</h4>
 <h4>Databricks</h4>
 <h4>Data Factory</h4>
 <h4>SQL Server</h4>
