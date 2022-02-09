@@ -2,7 +2,7 @@
 #### Projeto Integrado  da BlueShift Acagemy referente a análise de criptomoedas ₿
 <h4>Integrantes</h4>
 
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="Mateus" height="30" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQFbZkbMXyrAkQ/profile-displayphoto-shrink_200_200/0/1644421523696?e=1649894400&v=beta&t=ZQIj9NhvN8RgfpEUkpbatv2H-nNrZBn2yv5fujOfKg4">
   <img align="center" alt="Everton" height="30"  style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHE5P0Ii1dOUA/profile-displayphoto-shrink_100_100/0/1625080705960?e=1649894400&v=beta&t=XSaHunEs09d68Umj6lqPRjAA5P3lfFCp8xJWxZR5hwQ">
   <img align="center" alt="Brunelle" height="30" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFA86rsJYSM0g/profile-displayphoto-shrink_200_200/0/1633011008995?e=1649894400&v=beta&t=qLv5aGrO2kvXj7fVr8sKp0TTmUAVdbNaS7pI1yGldd4">
