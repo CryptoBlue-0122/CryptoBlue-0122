@@ -1,5 +1,13 @@
 ## Ordem & Nesspresso
 #### Projeto Integrado  da BlueShift Acagemy referente a análise de criptomoedas ₿
+#### Integrantes
+#### Ferramentas Utilizadas
+#### Fonte de Dados
+#### Databricks
+#### Data Factory
+#### Cronograma
+#### Power BI
+#### Apresentações
 
 <div style="display: inline_block"><br>
   <img align="center" alt="DataBrickis" height="30" width="40" src="https://azure.microsoft.com/svghandler/databricks/?width=600&height=315">
