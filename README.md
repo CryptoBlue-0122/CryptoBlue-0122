@@ -20,6 +20,8 @@
   <img align="center" alt="Power BI" height="30" width="40" src="https://www.clipartmax.com/png/small/17-172861_power-bi-is-a-business-analytics-service-provided-by-power-bi-logo.png">
   <img align="center" alt="Excel" height="30" width="40" src="https://www.clipartmax.com/png/small/17-173519_microsoft%C2%AE-office-excel%C2%AE-microsoft-excel-logo-2013.png">
   <img align="center" alt="Python" height="30" width="40" src="https://www.clipartmax.com/png/full/83-834304_course-key-features-python-logo.png">
+   <img align="center" alt="Power Point" height="30" width="40" src="https://www.clipartmax.com/png/small/16-168022_power-point-2013-logo.png">
+
 
 
 </div>
