@@ -1,5 +1,5 @@
 ## Ordem & Nesspresso
-#### Projeto Integrado  da BlueShift Acagemy referente a análise de criptomoedas ₿
+#### Projeto Integrado  da BlueShift Academy referente a análise de criptomoedas ₿
 <h4>Integrantes</h4>
 
 <div>
